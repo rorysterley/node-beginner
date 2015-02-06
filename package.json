@@ -1,0 +1,24 @@
+{
+  "name": "node-beginner",
+  "version": "1.0.0",
+  "description": "Code from 'Node Beginners' book",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rorysterley/node-beginner.git"
+  },
+  "author": "Rory Sterley <rorysterley@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rorysterley/node-beginner/issues"
+  },
+  "homepage": "https://github.com/rorysterley/node-beginner"
+}
